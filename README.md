@@ -1,0 +1,2 @@
+# deleteMethod
+Created with CodeSandbox
